@@ -1,8 +1,4 @@
-<h1 align="center" style="color:#e75480;">💖Tailwind css</h1>
-
-<p align="center" style="color:#ffb6c1; font-size:1.1rem;">
-  Una interfaz web encantadora inspirada en tonos rosados, perfecta para proyectos femeninos, artísticos o simplemente adorables.
-</p>
+<h1 align="center" style="color:#e75480;">💖 Tailwind CSS - Cards Lillina</h1>
 
 ---
 
@@ -12,7 +8,6 @@
   <img src="https://i.pinimg.com/736x/89/a5/08/89a5083d2dd870bf3246c44ea95dee6b.jpg" alt="Vista previa Cards Lillina" width="400" style="border-radius: 12px;" />
 </div>
 
-> ✨ Interfaz de ejemplo con estilo pastel y elementos visuales suaves.
 
 ---
 
